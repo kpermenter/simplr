@@ -43,7 +43,7 @@ outline: none;
 margin-top: 15px;
 margin-left: 20px;
 width: 300px;
-  @media (max-width: 600px) {
+  @media (max-width: 418px) {
 		width:300px;
 	}
 `;
@@ -56,7 +56,7 @@ margin-left: 18px;
 color: #ff0000;
 // margin: auto;
 align-items: flex-start;
-  @media (max-width: 600px) {
+  @media (max-width: 418px) {
     align-items: flex-start;
       }
 `;
@@ -98,7 +98,7 @@ outline: none;
   &:hover {
     border-bottom: solid 1px #9013fe
   }
-  @media (max-width: 600px) {
+  @media (max-width: 300px) {
 		width:300px;
 	}
 `;
