@@ -1,0 +1,162 @@
+/* app wrapper */
+.container {
+  height: 100%;
+  max-width: 418px;
+  align-items: center;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right:auto;
+}
+
+/* form  */
+.form {
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-bottom: 1px solid #cfe2eb;
+  color: #d0e1e4;
+  outline: none;
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;    
+  margin-bottom: 5vh; 
+}
+
+form ::placeholder {
+  width: 300px;
+  height: 15px;
+  font-size: 13px;
+  color:  #77a4ac;
+}
+
+form input:focus {
+  width: 300px;
+  height: 15px;
+  font-size: 13px;
+  color: #77a4ac;
+  background-color: #ffffff;
+  border-bottom: solid 1px #9013fe;
+}
+
+form input:hover {
+  width: 300px;
+  height: 15px;
+  font-size: 13px;
+  color: #77a4ac;
+  background-color: #ffffff;
+  border-bottom: solid 1px #9013fe;
+}
+
+form input {
+  width: 300px;
+  height: 15px;
+  font-size: 13px;
+  color: #22386f;
+  background-color: #ffffff;
+  border-bottom: solid 1px #9013fe;
+}
+
+input[type=text] {
+  padding-bottom: 5px;
+  padding-top: 2px
+}
+
+input[type=email] {
+  padding-bottom: 5px;
+  padding-top: 2px
+}
+
+input[type=password] {
+  padding-bottom: 5px;
+  padding-top: 2px
+}
+
+/* select */
+svg.css-6q0nyr-Svg {
+  display: inline-block;
+  fill: #77a4ac;
+  /* line-height: 1; */
+  stroke: #77a4ac;
+  stroke-width: 0;
+}
+
+div.css-1wa3eu0-placeholder {
+  font-size: 13px;
+  color: #77a4ac;
+  top: 75%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  box-sizing: content-box;
+}
+
+div.css-yk16xz-control {
+  border-style: none;
+  border-width: 0px;
+  outline: none;
+  width: 300px;
+  height: 20px;
+  font-size: 13px;
+  color: #77a4ac;
+  /* margin-top: 10px; */
+}
+
+div.css-1uccc91-singleValue {
+  color: #77a4ac;
+  margin-left: 2px;
+  margin-right: 2px;
+  /* max-width: calc(100% - 8px); */
+  width: 300px;
+  overflow: hidden;
+  position: absolute;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  top: 75%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  box-sizing: content-box;
+}
+
+.selectField {
+  padding-left: 25px;
+}
+
+/* button */
+button {
+  font-size: 18px;
+  color: #ffffff;
+  text-align: center;
+  width: 418px;
+  height: 80px;
+  justify-content: center;
+  background-image: linear-gradient(180deg, #79d9f1 0%, #44b1df 100%);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background-color: none;
+  border: none;
+}
+
+button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+  border: none;
+}
+
+/* form fields */
+.field {
+  padding-left: 25px;
+  margin-top: 15px
+}
+
+/* checkbox */
+#terms {
+  margin-left: 85px
+}
+
+.check {
+  margin-top: 60px
+}
+

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14" width="14" height="14">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-638 -639L802 -639L802 385L-638 385Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M-1.16 -0.46L14.68 -0.46L14.68 13.79L-1.16 13.79L-1.16 -0.46Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f8fafc;stroke: #4697c3;stroke-width: 0.605 } 
+		.shp1 { fill: #1c6774 } 
+	</style>
+	<g id="Sign-up_Exercise" clip-path="url(#cp1)">
+		<g id="Group 2">
+			<g id="Group">
+				<path id="Base" class="shp0" d="M3.02 0.4L11.38 0.4C12.72 0.4 13.8 1.48 13.8 2.82L13.8 11.38C13.8 12.72 12.72 13.8 11.38 13.8L3.02 13.8C1.68 13.8 0.6 12.72 0.6 11.38L0.6 2.82C0.6 1.48 1.68 0.4 3.02 0.4Z" />
+				<g id="Group 3">
+					<g id="Mask by Clip 2" clip-path="url(#cp2)">
+						<path id="Fill 1" class="shp1" d="M6.57 9.7C6.41 9.7 6.26 9.63 6.15 9.51L4.27 7.39C4.06 7.16 4.07 6.79 4.31 6.58C4.54 6.37 4.91 6.38 5.12 6.62L6.55 8.24L9.81 4.2C10.01 3.96 10.37 3.92 10.62 4.12C10.86 4.32 10.9 4.69 10.7 4.94L7.02 9.49C6.91 9.62 6.76 9.7 6.59 9.7C6.58 9.7 6.58 9.7 6.57 9.7" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

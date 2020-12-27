@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 38" width="38" height="38">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #0b1153;stroke-linecap:round;stroke-linejoin:round;stroke-width: 1.673 } 
+		.shp1 { fill: none;stroke: #028dff;stroke-linecap:round;stroke-linejoin:round;stroke-width: 1.673 } 
+	</style>
+	<path id="Stroke 1" class="shp0" d="M36.96 19C36.96 28.91 28.91 36.96 19 36.96C9.08 36.96 1.04 28.91 1.04 19C1.04 9.08 9.08 1.04 19 1.04C28.91 1.04 36.96 9.08 36.96 19Z" />
+	<path id="Stroke 3" class="shp1" d="M26.59 23.79L21.57 23.79L18.87 27.93L16.43 23.79L11.41 23.79C10.44 23.79 9.73 23.02 9.73 22.06L9.73 13.77C9.73 12.81 10.44 12.03 11.41 12.03L26.59 12.03C27.55 12.03 28.36 12.81 28.36 13.77L28.36 22.06C28.36 23.02 27.55 23.79 26.59 23.79Z" />
+</svg>

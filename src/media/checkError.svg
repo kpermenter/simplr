@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14" width="14" height="14">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-638 -639L802 -639L802 385L-638 385Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f8fafc;stroke: #FF0000;stroke-width: 0.605 } 
+	</style>
+	<g id="Sign-up_Exercise" clip-path="url(#cp1)">
+		<g id="Group 2">
+			<g id="Group">
+				<path id="Base" class="shp0" d="M3.02 0.4L11.38 0.4C12.72 0.4 13.8 1.48 13.8 2.82L13.8 11.38C13.8 12.72 12.72 13.8 11.38 13.8L3.02 13.8C1.68 13.8 0.6 12.72 0.6 11.38L0.6 2.82C0.6 1.48 1.68 0.4 3.02 0.4Z" />
+			</g>
+		</g>
+	</g>
+</svg>
